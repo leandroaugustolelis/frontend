@@ -1,3 +1,3 @@
-Reviewing Rocketseat Bootcamp basics
+### React JS basics
 
-ReactJS
+BABEL / WEBPACK / LOADERS
